@@ -31,7 +31,6 @@ When I’m not engineering pipelines, I’m:
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lavanya-vaidya/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/Lavanya575/)
 
 
 > *“Transforming data into decisions.”*
