@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Lavanya!
 
 🔹 **Data Engineer @ NatWest Group**  
-🔹 I build robust data pipelines, transform data into insights, and explore AI/Finance/Art(you name it) in my spare time.
+🔹 I build robust data pipelines, transform data into insights, and explore AI/Finance/Art (you name it) in my spare time.
 
 ---
 
