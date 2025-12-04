@@ -1,19 +1,17 @@
 # 👋 Hi there, I'm Lavanya!
 
 🔹 **Data Engineer @ NatWest Group**  
-🔹 I build robust data pipelines, transform data into insights, and explore AI/ML in my spare time.
+🔹 I build robust data pipelines, transform data into insights, and explore AI/Finance/Art(you name it) in my spare time.
 
 ---
 
 ## 🧠 About Me
 
-I’m a data engineer working with tools like **Airflow**, **DBT**, and **Snowflake SQL** to orchestrate and manage data pipelines at scale. I love building smart, efficient workflows and solving tough data problems.
+I’m a data engineer working with **Airflow**, **AWS Cloud**, and **Snowflake SQL** to orchestrate and manage data pipelines. I love difficult problems, even if they make my hair fall out quicker.
 
 When I’m not engineering pipelines, I’m:
-- 🐍 Writing complex Python transformations
-- 🤖 Exploring AI & machine learning projects
-- 🧠 Solving algorithmic challenges on LeetCode in **C++**
-- 🧪 Building data science side projects in Python
+- 🧠 Solving algorithmic challenges on LeetCode in **C++ & Python**
+- 🧪 Building side projects in Python.
 
 ---
 
